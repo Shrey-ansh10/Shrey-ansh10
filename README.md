@@ -8,6 +8,7 @@
 <p align="center">
   <strong>📢 I’m actively looking for full-time roles in Software Engineering and AI Engineering starting Summer 2025!</strong>
 </p>
+
 ---
 
 🎓 I've recently completed my **M.S. in Computer Science** from **Florida Atlantic University**, specializing in AI, Machine Learning, applied Algorithms, full-stack development, and data-driven systems.
