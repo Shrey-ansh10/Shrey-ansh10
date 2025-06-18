@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shreyansh</h1>
+<h3 align="center">🚀 A Software and AI Engineer </h3>
 
-<!--
-**Shrey-ansh10/Shrey-ansh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shrey-ansh10&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>📢 I’m actively looking for full-time roles in Software Engineering and AI Engineering starting Summer 2025!</strong>
+</p>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I've recently completed my **M.S. in Computer Science** from **Florida Atlantic University**, specializing in AI, Machine Learning, applied Algorithms, full-stack development, and data-driven systems.
+
+---
+
+### 🔧 Tech Stack
+
+- **Languages:** C++, Python, JavaScript, SQL, PHP
+- **Frameworks/Libraries:** ReactJS, Node.js, Express, Bootstrap, Numpy, Pandas, Scikit-learn, TensorFlow, Hugging Face
+- **Databases:** MongoDB, MySQL, SQL Servers  
+- **Tools:** Git, VS Code, Postman, Linux CLI, Jira
+- **Other Areas:** Data Preprocessing, Deep Learning, LLM Engineering, Transformers, PCA, Anomaly Detection
+
+---
+
+### 🌱 Current Learning
+
+- Transformers and Attention Mechanisms
+- Typescript and Next.js
+- Advance DSA and Problem Solving 
+- End-to-End Web Development for freelance eCommerce clients  
+
+---
+
+### 📫 Connect With Me
+ 
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/shreyansh-sharma-1010/)  
+- 📧 Email: *(shreyanshsharma10@hotmail.com)*
+
+---
+
+### ✨ Fun Facts
+
+- 🧘 I enjoy moments of silence, music, and science documentaries.
+- 🏃 I love Sports and Atheletics.
+- ✈️ I love to travel and explore new ideas as much as I love code!  
+- 🛠 I believe good software comes from a balance of curiosity and craftsmanship.
+
+---
+
