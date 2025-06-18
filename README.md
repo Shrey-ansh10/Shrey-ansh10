@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>📢 I’m actively looking for full-time roles in Software Engineering and AI Engineering starting Summer 2025!</strong>
+  <strong>📢 I’m actively looking for full-time roles in Software Engineering and AI Engineering </strong>
 </p>
 
 ---
@@ -17,10 +17,10 @@
 
 ### 🔧 Tech Stack
 
-- **Languages:** C++, Python, JavaScript, SQL, PHP
-- **Frameworks/Libraries:** ReactJS, Node.js, Express, Bootstrap, Numpy, Pandas, Scikit-learn, TensorFlow, Hugging Face
-- **Databases:** MongoDB, MySQL, SQL Servers  
-- **Tools:** Git, VS Code, Postman, Linux CLI, Jira
+- **Languages:** C++, Python, JavaScript, SQL, CSS, HTML,  PHP
+- **Frameworks/Libraries:** ReactJS, Node.js, Express, Bootstrap, Numpy, Pandas, Scikit-learn, TensorFlow, Langchain, Hugging Face
+- **Databases:**  MySQL, SQL Servers, MongoDB  
+- **Tools:** Git, Docker, Linux CLI, Jira, AWS, Google Cloud, Github Actions, Kanban
 - **Other Areas:** Data Preprocessing, Deep Learning, LLM Engineering, Transformers, PCA, Anomaly Detection
 
 ---
@@ -36,7 +36,7 @@
 
 ### 📫 Connect With Me
  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/shreyansh-sharma-1010/)  
+- 💼 LinkedIn: [link](https://www.linkedin.com/in/shreyansh-sharma-1010/)  
 - 📧 Email: *(shreyanshsharma10@hotmail.com)*
 
 ---
