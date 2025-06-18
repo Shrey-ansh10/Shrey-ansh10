@@ -36,7 +36,7 @@
 
 ### 📫 Connect With Me
  
-- 💼 LinkedIn: [link](https://www.linkedin.com/in/shreyansh-sharma-1010/)  
+- 💼 LinkedIn(https://www.linkedin.com/in/shreyansh-sharma-1010/)  
 - 📧 Email: *(shreyanshsharma10@hotmail.com)*
 
 ---
