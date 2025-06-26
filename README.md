@@ -6,19 +6,20 @@
 </p>
 
 <p align="center">
-  <strong>📢 I’m actively looking for full-time roles in Software Engineering and AI Engineering </strong>
+  <strong>📢 I’m actively looking for full-time roles in Software and AI Engineering </strong>
 </p>
 
 ---
 
-🎓 I've recently completed my **M.S. in Computer Science** from **Florida Atlantic University**, specializing in AI, Machine Learning, applied Algorithms, full-stack development, and data-driven systems.
+🎓 I've recently completed my **M.S. in Computer Science** from **Florida Atlantic University**, specializing in AI, Machine Learning and applied Algorithms.
 
 ---
 
 ### 🔧 Tech Stack
 
 - **Languages:** C++, Python, JavaScript, SQL, CSS, HTML,  PHP
-- **Frameworks/Libraries:** ReactJS, Node.js, Express, Bootstrap, Numpy, Pandas, Scikit-learn, TensorFlow, Langchain, Hugging Face
+- **Web Dev Frameworks/Libraries:** ReactJS, Node.js, Express
+- **AI Specific Libraries:** Numpy, Pandas, Scikit-learn, Pytorch, TensorFlow, Langchain, Hugging Face 
 - **Databases:**  MySQL, SQL Servers, MongoDB  
 - **Tools:** Git, Docker, Linux CLI, Jira, AWS, Google Cloud, Github Actions, Kanban
 - **Other Areas:** Data Preprocessing, Deep Learning, LLM Engineering, Transformers, PCA, Anomaly Detection
@@ -29,8 +30,7 @@
 
 - Transformers and Attention Mechanisms
 - Typescript and Next.js
-- Advance DSA and Problem Solving 
-- End-to-End Web Development for freelance eCommerce clients  
+- Advance DSA and Problem Solving
 
 ---
 
@@ -46,7 +46,7 @@
 ### ✨ Fun Facts
 
 - 🧘 I enjoy moments of silence, music, and science documentaries.
-- 🏃 I love Sports and Atheletics.
+- 🏃 I'm a Sports enthusiast and Athelete.
 - ✈️ I love to travel and explore new ideas as much as I love code!  
 - 🛠 I believe good software comes from a balance of curiosity and craftsmanship.
 
