@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyansh</h1>
-<h3 align="center">🚀 A Software and AI Engineer </h3>
+<h3 align="center">🚀 Software Developer and AI Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shrey-ansh10&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -17,11 +17,11 @@
 
 ### 🔧 Tech Stack
 
-- **Languages:** C++, Python, JavaScript, SQL, CSS, HTML,  PHP
-- **Web Dev Frameworks/Libraries:** ReactJS, Node.js, Express
-- **AI Specific Libraries:** Numpy, Pandas, Scikit-learn, Pytorch, TensorFlow, Langchain, Hugging Face 
-- **Databases:**  MySQL, SQL Servers, MongoDB  
-- **Tools:** Git, Docker, Linux CLI, Jira, AWS, Google Cloud, Github Actions, Kanban
+- **Languages:** C++, Python, JavaScript, SQL, PHP, CSS, HTML
+- **Web Dev Frameworks/Libraries:** ReactJS, Node.js, Express, Flask
+- **AI Specific Libraries:** Numpy, Pandas, Scikit-learn, Pytorch, TensorFlow, Langchain, Hugging Face Transformers, LangGraph
+- **Databases:**  MySQL, MongoDB, Redis 
+- **Tools:** Git, Docker, Linux CLI, AWS, Google Cloud, Github Actions, Kanban, Jira
 - **Other Areas:** Data Preprocessing, Deep Learning, LLM Engineering, Transformers, PCA, Anomaly Detection
 
 ---
@@ -29,6 +29,7 @@
 ### 🌱 Current Learning
 
 - Transformers and Attention Mechanisms
+- AI Agents and RAG
 - Typescript and Next.js
 - Advance DSA and Problem Solving
 
