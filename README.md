@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=Shrey-ansh10&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <strong>📢 I’m actively looking for full-time roles in Software and AI Engineering </strong>
-</p>
+</p> -->
 
 ---
 
