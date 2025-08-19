@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shreyansh</h1>
 <h3 align="center">🚀 Software Developer and AI Engineer </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shrey-ansh10&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
 <!-- <p align="center">
-  <strong>📢 I’m actively looking for full-time roles in Software and AI Engineering </strong>
+  <img src="https://komarev.com/ghpvc/?username=Shrey-ansh10&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p> -->
+
+<p align="center">
+  <strong>📢 I’m actively looking for full-time roles in Software and AI Engineering </strong>
+</p> 
 
 ---
 
