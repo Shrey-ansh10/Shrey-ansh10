@@ -6,7 +6,7 @@
 </p> -->
 
 <p align="center">
-  <strong>📢 I’m actively looking for full-time roles in Software and AI Engineering </strong>
+  <strong>📢 I’m open for full-time roles in Software Engineering and AI-ML Development. I have over 2 Years of Industry experience in developing Full Stack Software Applications and have worked on Front-end and Backend Systems inculding creating and managing Databases. In the past 2 years I have also gained experience in AI Domain where I built ML and Deep Learning Models.  </strong>
 </p> 
 
 ---
