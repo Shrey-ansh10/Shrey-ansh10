@@ -1,55 +1,70 @@
-<h1 align="center">Hi 👋, I'm Shreyansh</h1>
-<h3 align="center">🚀 Software Developer and AI Engineer </h3>
+<div align="center">
+  <h1>Hi there, I'm Shreyansh 👋</h1>
+  <h3> AI & Backend Engineer | Technical Product Lead </h3>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shrey-ansh10&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p> -->
+  <p>
+    <b>Agentic AI • Scalable Infrastructure • Product Strategy</b>
+  </p>
 
-<p align="center">
-  <strong>📢 I’m open for full-time roles in Software Engineering and AI-ML Development. I have over 2 Years of Industry experience in developing Full Stack Software Applications and have worked on Front-end and Backend Systems inculding creating and managing Databases. In the past 2 years I have also gained experience in AI Domain where I built ML and Deep Learning Models.  </strong>
-</p> 
+  <p>
+    I operate at the intersection of <b>Agentic AI</b> and <b>Backend Systems</b>, combining 4+ years of cumulative experience in production engineering and advanced research. I specialize in architecting stateful, multi-agent workflows and robust cloud-native infrastructure.
+  </p>
+  
+  <p>
+    Currently, I am architecting AI solutions at the <b>Community Dreams Foundation</b> while actively looking for full-time roles where I can bridge the gap between complex engineering and product impact.
+  </p>
 
----
-
-🎓 I've recently completed my **M.S. in Computer Science** from **Florida Atlantic University**, specializing in AI, Machine Learning and applied Algorithms.
-
----
-
-### 🔧 Tech Stack
-
-- **Languages:** C++, Python, JavaScript, SQL, PHP, CSS, HTML
-- **Web Dev Frameworks/Libraries:** ReactJS, Node.js, Express, Flask
-- **AI Specific Libraries:** Numpy, Pandas, Scikit-learn, Pytorch, TensorFlow, Langchain, Hugging Face Transformers, LangGraph
-- **Databases:**  MySQL, MongoDB, Redis 
-- **Tools:** Git, Docker, Linux CLI, AWS, Google Cloud, Github Actions, Kanban, Jira
-- **Other Areas:** Data Preprocessing, Deep Learning, LLM Engineering, Transformers, PCA, Anomaly Detection
-
----
-
-### 🌱 Current Learning
-
-- Transformers and Attention Mechanisms
-- AI Agents and RAG
-- Typescript and Next.js
-- Advance DSA and Problem Solving
-
----
-
-### 📫 Connect With Me
- 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreyansh-sharma-1010/)  
+💼 [LinkedIn](https://www.linkedin.com/in/shreyansh-sharma-1010/)  
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/) -->
 
-- 📧 Email: *(shreyanshsharma10@hotmail.com)*
+📧 Email: *(shreyanshsharma10@hotmail.com)*
+
+</div>
+
+---
+
+### 🚀 What I Do
+
+- 🤖 **Agentic AI Architecture:** Building stateful multi-agent systems using **LangGraph** & **LangChain**, focusing on A2A orchestration and complex task decomposition.
+- ⚙️ **Scalable Backend Systems:** Architecting high-performance APIs (FastAPI, Node.js) and microservices deployed on **AWS/GCP** with Docker & Kubernetes.
+- 🎯 **Product Strategy:** Acting as a bridge between business and tech—translating ambiguous requirements into actionable **Technical Roadmaps**, **PRDs**, and **User Stories**.
+- ⚡ **Performance Optimization:** Leveraging **C++** and algorithmic optimization (Geometric/Graph algorithms) to solve latency-critical problems.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Domain | Stack & Tools |
+| :--- | :--- |
+| **Languages** | Python, C++, JavaScript/TypeScript, SQL, Go, Bash |
+| **AI & ML** | LangGraph, LangChain, MCP, PyTorch, TensorFlow, MLflow, RAG, Hugging Face |
+| **Backend** | FastAPI, Pydantic, Node.js, Express, SQLAlchemy, Mongoose |
+| **Cloud & DevOps** | Docker, Kubernetes, AWS (EC2, S3), GCP, GitHub Actions, Terraform, Linux |
+| **Data & DB** | PostgreSQL, MongoDB, Redis, Pinecone, Weaviate, Pandas, NumPy |
+| **Product & Tools** | Jira, Agile/Scrum, SDLC, Requirements Gathering, User Stories, Root Cause Analysis (RCA) |
+
+---
+
+### 🌱 Current Focus
+
+I believe the future of software belongs to **Agentic Systems** that can reason and act. My current R&D involves:
+* **Model Context Protocol (MCP):** Implementing standard interfaces for AI tools.
+* **Stateful Graphs:** Moving beyond linear RAG chains to cyclical, self-correcting agent workflows.
+* **GenAI Architecture:** Deepening knowledge in Transformer attention mechanisms and custom tokenization strategies.
 
 ---
 
 ### ✨ Fun Facts
 
-- 🧘 I enjoy moments of silence, music, and science documentaries.
-- 🏃 I'm a Sports enthusiast and Athelete.
-- ✈️ I love to travel and explore new ideas as much as I love code!  
-- 🛠 I believe good software comes from a balance of curiosity and craftsmanship.
+* 🧘 **Mindset:** I believe good software comes from a balance of curiosity and craftsmanship.
+* 🏃 **Active:** I'm a sports enthusiast and athlete—discipline in sports translates to discipline in code.
+* 🎥 **Interest:** I enjoy moments of silence, music, and deep-dive science documentaries.
+* ✈️ **Exploration:** I love to wander around in nature and explore new ideas as much as I love to refactor code!
 
 ---
+
+<div align="center">
+  <i>Open for full-time opportunities in AI Engineering, Backend Development, and Technical Product Management.</i>
+</div>
+
 
