@@ -7,7 +7,7 @@
   </p>
 
   <p>
-    I operate at the intersection of <b>Agentic AI</b> and <b>Backend Systems</b>, combining 4+ years of cumulative experience in production engineering and advanced research. I specialize in architecting stateful, multi-agent workflows and robust cloud-native infrastructure.
+    I operate at the intersection of <b>Agentic AI</b> and <b>Backend Systems</b>, combining 3 years of cumulative experience in production engineering and advanced research. I specialize in architecting stateful, multi-agent workflows and robust cloud-native infrastructure.
   </p>
   
   <p>
